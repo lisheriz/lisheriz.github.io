@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Хэштэгжизньгавно | Academic</title>
+    <link>https://example.com/category/%D1%85%D1%8D%D1%88%D1%82%D1%8D%D0%B3%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%D0%B3%D0%B0%D0%B2%D0%BD%D0%BE/</link>
+      <atom:link href="https://example.com/category/%D1%85%D1%8D%D1%88%D1%82%D1%8D%D0%B3%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%D0%B3%D0%B0%D0%B2%D0%BD%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>Хэштэгжизньгавно</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Хэштэгжизньгавно</title>
+      <link>https://example.com/category/%D1%85%D1%8D%D1%88%D1%82%D1%8D%D0%B3%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%D0%B3%D0%B0%D0%B2%D0%BD%D0%BE/</link>
+    </image>
+    
+    <item>
+      <title>Отчет по прошедшей неделе</title>
+      <link>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F_1/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F_1/</guid>
+      <description>&lt;h2 id=&#34;это-обманка-я-проебала-второй-этап&#34;&gt;Это обманка я проебала второй этап&lt;/h2&gt;
+&lt;p&gt;ну лохи ну повелись&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Отчет по прошедшей неделе намбер 2</title>
+      <link>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F_2/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F_2/</guid>
+      <description>&lt;h2 id=&#34;понедельник-бездельник&#34;&gt;Понедельник бездельник&lt;/h2&gt;
+&lt;p&gt;я не помню что я делала&lt;/p&gt;
+&lt;h2 id=&#34;тьюсдэй&#34;&gt;Тьюсдэй&lt;/h2&gt;
+&lt;p&gt;съездила на пилон, где меня избил шест до синяков, зато научилась залезать на верх пилона&lt;/p&gt;
+&lt;h2 id=&#34;девочка-вэнсдей&#34;&gt;Девочка вэнсдей&lt;/h2&gt;
+&lt;p&gt;написала две контрольные и умерла&lt;/p&gt;
+&lt;h2 id=&#34;чт&#34;&gt;Чт&lt;/h2&gt;
+&lt;p&gt;то же, что и вторник&lt;/p&gt;
+&lt;h2 id=&#34;пятница-развратница&#34;&gt;Пятница развратница&lt;/h2&gt;
+&lt;p&gt;хэштег явдрова не будет, мне было очень скучно и грустно на парах, зато потом покушала макдокнак с пидружками и поиграла в дти&lt;/p&gt;
+&lt;h2 id=&#34;суббота&#34;&gt;Суббота&lt;/h2&gt;
+&lt;p&gt;проект + покорила версаль&lt;/p&gt;
+&lt;h2 id=&#34;день-на-который-бог-создал-людей-и-велел-им-отдыхать&#34;&gt;День, на который бог создал людей и велел им отдыхать&lt;/h2&gt;
+&lt;p&gt;завтра.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
